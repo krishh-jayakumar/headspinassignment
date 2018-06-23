@@ -30,4 +30,6 @@ The program is saved as assignment.py.
 The program can be cloned using 
 https://github.com/krishh-jayakumar/headspinassignment.git
 
+name of the contributor:- Krishna J
+
 
