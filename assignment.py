@@ -31,12 +31,12 @@ def printmultiples():
     return value :None
     '''
     low=4
-    high=20
+    high=1000
     total=0
     for i in range(low,high):
         if i%4 == 0 or i%5 == 0:
             total+=i
-    print "\n sum of all multiples of 4 and 5 below 20 =",total
+    print "\n sum of all multiples of 4 and 5 below 1000 =",total
 
 def printleastnum():
     '''
